@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #7d66b8;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -24,8 +24,8 @@ select {
 
 .container {
   max-width: 600px;
-  margin: 60px auto;
-  background: white;
+  margin: 80px auto;
+  background: #dfd3ff;
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
